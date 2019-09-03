@@ -1,5 +1,5 @@
 <template>
-  <div>大傻子</div>
+  <div>大傻子1</div>
 </template>
 
 <script>
